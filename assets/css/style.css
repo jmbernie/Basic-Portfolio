@@ -22,13 +22,16 @@ nav {
     padding-left: 24px;
 }
 
-nav2 {
-    background-color: #FFFFFF;
-    margin: 0px;
-    padding: 20px;
+form {
+    line-height: 2;
+}
+
+input {
+
 }
 
 a{
+    text-decoration: unset;
     float: right;
     padding: 20px;
     padding-top: 0px;
@@ -43,7 +46,7 @@ h1 {
     padding: 10;
     padding-left: 24px;
     font-size: 28px;
-    width: 150px;
+    width: 199px;
 }
 
 h2 {
